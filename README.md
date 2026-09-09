@@ -1,6 +1,6 @@
 # IBM HR Analytics – Employee Attrition Dashboard
 
-## 1. Project Title
+## 1. Project Title 
 IBM HR Analytics Attrition Dashboard
 
 ## 2. Short Description
