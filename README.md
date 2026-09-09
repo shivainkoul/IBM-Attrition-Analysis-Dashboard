@@ -87,9 +87,9 @@ With 10,000 employees across departments and job roles, IBM needed a clear way t
 ### i. Overview Dashboard
 KPI summary and department-level attrition vs total employee trend.
 
-<img width="603" height="370" alt="IBM HR Analytics Dashboard - Overview" src="Employee_Attrition_Overview.png" />
+<img width="603" height="370" alt="IBM HR Analytics Dashboard - Overview" src="https://github.com/shivainkoul/IBM-Attrition-Analysis-Dasboard/blob/main/Employee%20Attrition%20Overview.png" />
 
 ### ii. Attrition Drivers & Demographics
 Breakdown of attrition by overtime, travel, distance, salary hike, department, education, and job role, with gender/job role/job level filters.
 
-<img width="603" height="370" alt="IBM HR Analytics Dashboard - Drivers & Demographics" src="Attrition_Drivers___Demographics.png" />
+<img width="603" height="370" alt="IBM HR Analytics Dashboard - Drivers & Demographics" src="https://github.com/shivainkoul/IBM-Attrition-Analysis-Dasboard/blob/main/Attrition%20Drivers%20%26%20Demographics.png" />
